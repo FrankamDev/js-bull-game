@@ -20,11 +20,13 @@ h3{
 
 @keyframes anim {
     to{
+
         top: -250px;
         filter: hue-rotate(1000deg);
         left: var(--left);
         opacity: 1;
     }
+
 }
 .togle {
     background: skyblue;
